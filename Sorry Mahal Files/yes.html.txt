@@ -1,0 +1,14 @@
+<doctype html>
+<html>
+    <Head>
+        <title>REALLY?</title>
+        <script type="text=javascript">
+            alert("are you sure")
+            confirm("I care about you Oni, I Cherish you")
+        </script>
+    </Head>
+    <body>
+        <img src="https://tenor.com/view/cute-cat-couple-gif-21260552">
+        <p> i love you Oni mahal, i know i say ILY too much but there's no better words for me to describe my feelings for you... PS. Message me your answer lmaoo it's not like google form where i can see your answer</p>
+    </body>
+</html>

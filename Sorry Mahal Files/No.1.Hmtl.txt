@@ -1,0 +1,16 @@
+<doctype html>
+<html> 
+    <head>
+        <title>sorry Mahal</title> 
+        <script type="text/javascript">
+            alert("I know sorry is not enough. I shouldn't have forced you. especially when you're super stressed out mahal. i have been careless");
+            confirm("I love you and I'm scared losing you, I cherish you Oni<3")
+        </script>
+    </head>    
+<body>
+    <p>Oni I know you need time to think, I assure you I love you, I don't care if I'm obsessed with you. i know your question already... which part? I told you I love every part of you, but if you want the exact part... well to be honest i dont love you because of a single part about you, but if you really want to know, I love you because you're so caring and enthusiastic most of the tim. anyways I only want you to be comfortable with me I don't like holding you back...</p>
+    <h2>("Is it possible for you to forgive me? i promise i won't do it again")</h2>
+    <a href="no.html">No</a>
+    <a href="yes.html">yes</a>
+</body> 
+</html>

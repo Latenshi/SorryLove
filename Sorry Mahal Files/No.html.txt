@@ -1,0 +1,15 @@
+<doctype html>
+    <html>
+        <Head>
+            <title>oh...</title>
+            <script type="text=javascript">
+                alert("are you sure")
+                confirm("If you say so... I won't disturb you anymore. I still love you")
+            </script>
+        </Head>
+            <body>
+                <img src="https://tenor.com/view/crycat-crying-cat-crying-cat-thumbs-up-thumbs-up-ok-gif-22851318">
+                <p>Just message me if you need something ok? I'll forget what we did... PS. Message me your answer lmaoo it's not like google form where i can see your answer</p> 
+            </body>
+        
+    </html>
